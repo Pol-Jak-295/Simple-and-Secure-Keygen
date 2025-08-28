@@ -1,2 +1,2 @@
 # Simple and Secure Keygen
-just a simple 
+Just a simple key file generator for ssh keys.
